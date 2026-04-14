@@ -12,6 +12,9 @@ Estudiante de maestría con gran interés en los problemas sociales de México q
 ---
 [Declaración de uso de IA](ai-log.md)
 ---
+---
+[Licencia](LICENSE.md)
+---
 ## Descripción del proyecto
 "La educación puede esperar, el hambre no" es un proyecto que busca cuestionar y desmontar el sesgo social detrás de la frase "pues que se pongan a estudiar en vez de…", evidenciando que el acceso a la educación no es únicamente una cuestión de voluntad individual, sino que está profundamente ligado a la pobreza multidimensional en México. A partir de los datos del CONEVAL, queremos  analizar si realmente todas las personas pueden acceder a la educación en condiciones de rezago educativo, carencia por acceso a la alimentación y otras privaciones. Este trabajo se alinea con el *ODS 4* (Educación de calidad) y *ODS 2* (Hambre cero).
 
@@ -39,7 +42,7 @@ Estudiante de maestría con gran interés en los problemas sociales de México q
     - `'porc_carencia_menor18'`: Personas con carencia menores a 18 años
     - `'porc_carencia_6_11'`: Personas con carencia entre 6 y 11 años
     - `'porc_carencia_12_17'`: Personas con carencia entre 12 y 17 años
-- **Justificación de selección de datos** Los datos del CONEVAL son relevantes porque vinculan directamente  dimensiones de la pobreza multidimensional como lo es el rezago educativo e inseguridad alimentaria para demostrar con evidencia empírica que el hambre es un obstáculo para el acceso a la educación y avanzar en ella. Los datos incluyen cuatro años de medición (2016-2022) lo que nos permitirá comparar cómo ha sido el impacto de esas variables para la educación, los datos posibilitan cuestionar el sesgo que responsabiliza individualmente a las personas de su situación educativa, cuando en realidad la carencia alimentaria y carencias en general inciden en la inasistencia escolar.
+- **Justificación de selección de datos** Los datos del CONEVAL son relevantes porque vinculan directamente  dimensiones de la pobreza multidimensional como lo es el rezago educativo e inseguridad alimentaria para demostrar con evidencia empírica que el hambre es un obstáculo para el acceso a la educación y avanzar en ella. Los datos incluyen cuatro años de medición (2016-2022) lo que nos permitirá comparar cómo ha sido el impacto de esas variables para la educación, los datos posibilitan cuestionar el sesgo que responsabiliza individualmente a las personas de su situación educativa, cuando en realidad la carencia alimentaria y carencias en general inciden en la inasistencia escolar. Además la tasa de abandono escolar proporcionado por el INEGI ayudará a encontrar relaciones más cercanas al impacto que tienen las carencias de pobreza con el estudio.
 
 
 
