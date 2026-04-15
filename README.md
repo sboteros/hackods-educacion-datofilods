@@ -5,10 +5,10 @@
 Estudiante de maestría con gran interés en los problemas sociales de México que estén relacionados con el desarrollo del país. Con formación en ingeniería en sistemas y actualmente trabajando en el sector fintech con herramientas en la nube para automatización de infraestructura. 
 
 ### Santiago Botero Sierra
- Estudiante de maestría en Ciencia de Datos, con formación en ingeniería, derecho y economía. Disfruto mucho analizar datos para contribuir a la toma de decisiones en el sector público, en organizaciones de la sociedad civil y en la defensa de los derechos humanos de las y los migrantes. Más información en [mi página de internet](sboteros.com).
+Estudiante de maestría en Ciencia de Datos, con formación en ingeniería, derecho y economía. Disfruto mucho analizar datos para contribuir a la toma de decisiones en el sector público, en organizaciones de la sociedad civil y en la defensa de los derechos humanos de las y los migrantes. Más información en [mi página de internet](sboteros.com).
 
 ### Daniel Mondragon Tapia
-
+Desarrollador de Software con enfoque en sistemas de alto rendimiento. Estudiante en Economía. Me interesa la intersección entre la tecnología y las ciencias sociales.
 
 [Declaración de uso de IA](ai-log.md)
 ---
@@ -47,7 +47,11 @@ Estudiante de maestría con gran interés en los problemas sociales de México q
 
 # Storytelling
 
-Como se menciona en la descripción de este proyecto el problema que se quiere abordar es hacer visible el sesgo que tenemos como población sobre que no todos pueden estudiar tan facilmente, no basta con que la educación sea gratuita por lo que queremos contestar a la pregunta ¿Es verdad que todos podemos acceder a la educación?, para poder sensibilizar a la población y evitar que se siga propagando ese pensamiento dañino para todos en la sociedad acerca de "pues que se pongan a estudiar en vez de …", es un pensamiento limitante para todos y evita buscar soluciones al problema. Para poder evidenciarlo queremos resaltar los datos que muestran a las poblaciones que dejan de asistir a la escuela especialmente en el nivel educativo básico y cómo se relaciona con los niveles de pobreza en diferentes ámbitos como lo es la alimentación, carencias sociales y carencias en general, así como también resaltar las tasas de abandono escolar en ese nivel para reflejar un poco mejor cómo está México. Es importante compartir una visualización completa del país para indicar a dónde que tenemos que voltear y proponer soluciones, el hecho de hacer conscientización ayudará a que como sociedad podamos solventar esas carencias y dejemos de señalar sin argumentos. 
+Buscamos hacer visible el sesgo que tenemos como población con respecto al acceso a la educación. No basta con que la educación sea gratuita, tiene que ser accesible, justa y de calidad. Queremos contestar la pregunta: ¿Es verdad que todos podemos acceder a la educación?, con el objetivo de concientizar sobre los problemas educativos que existen en gran parte de la población y así evitar que se sigan propagando sesgos dañinos comunes, por ejemplo: "pues que se pongan a estudiar en vez de …", es un pensamiento limitante para todos y evade buscar soluciones al problema.
+
+Para poder evidenciar los problemas de educación resaltamos los datos que muestran las poblaciones que dejan de asistir a la escuela especialmente en el nivel educativo básico y cómo se relaciona con los niveles de pobreza en diferentes ámbitos como lo es la alimentación, carencias sociales y carencias en general, así como también resaltar las tasas de abandono escolar en ese nivel para reflejar un poco mejor cómo está México.
+
+Nuestro objetivo principal es exponer y visualizar la estructura educativa completa del país para indicar a dónde que tenemos que voltear y consecuentemente proponer soluciones, concientizar, divulgar y exponer problemas ayuda a que en sociedad podamos solventar esas carencias y dejemos de señalar sin argumentos. 
 
 # Prototipo
 El tablero al momento cuenta con 3 gráficas principales, reflejando datos del 2022 en el que se visualiza la inasistencia escolar en diferentes grupos en infancias de 6 a 11 y adolescentes 12 a 17 años, por otro lado está un gráfico que refleja la inseguridad alimentaria severa en todo el país dandonos un primer indicio de los estados que presentan este problema con mayor intensidad. Finalmente está nuestro mapa que refleja qué estados cuentan con inseguridad alimentaria. 
